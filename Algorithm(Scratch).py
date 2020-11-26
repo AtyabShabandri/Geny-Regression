@@ -1,3 +1,4 @@
+#linear regresssion algorithm
 class LinearRegression:
     
     def __init__(self,optimizer= "normal_equation"):

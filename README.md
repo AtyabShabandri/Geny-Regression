@@ -1,6 +1,3 @@
-# Geny-Regression
-This project was a task given by Gen-y club at SRM 
-
 # The Task given to us
 You need to buy a house for your parents. Being an expert Data Scientist you got some
 data points of the houses in your locality and now have to work on finding your parents

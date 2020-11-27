@@ -10,4 +10,4 @@ Come up with a few insights as well.
 
 # Math Behind the Algorithm 
 
-Esimated Price = intercept1xspecification1(bedrooms) + intercept2xspecification2(floors) + intercept3xspecification3(yr_built) + Coefficient 
+Esimated Price = [intercept1 x specification1(bedrooms)] + [intercept2xspecification2(floors)] + [intercept3xspecification3(yr_built)] + Coefficient 

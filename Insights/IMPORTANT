@@ -1,8 +1,10 @@
 # Content of the file
 The following file consists of two insights of the property markert in the area,
-1. The average price of the properties throughout the years
-2. The average price of a property when the number of bedrooms the house are taken into perspective 
+1. The average price of the properties in the area throughout the years
+2. The average price of a property in the area when the number of bedrooms the house are taken into perspective 
 
 # How to view the file
-To view the file you will need to download Tableau Reader from the url given below
+Step 1 - Download the .txb file 
+Step 2 - Download Tableau Reader from the url given below
 https://www.tableau.com/products/reader
+Step 3 - Open the file using Tableau Reader

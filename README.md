@@ -11,3 +11,5 @@ Come up with a few insights as well.
 # Math Behind the Algorithm 
 
 Esimated Price = [Coefficient1 x specification1(bedrooms)] + [Coefficient2 x specification2(floors)] + [Coefficient3 x specification3(yr_built)] + Intercept
+
+In this repository you will find the algorithm done from scratch as well as using the sklearn library. 
